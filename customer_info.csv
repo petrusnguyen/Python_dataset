@@ -1,0 +1,101 @@
+CustomerID,Full Name,Email,Gender,City,Membership Level,Join Date
+CUST001,Huynh Binh,binh.huynh12@example.com,Other,Ha Noi,Platinum,2022-06-03
+CUST002,Nguyen Binh,binh.nguyen63@example.com,Other,Can Tho,Silver,2022-12-21
+CUST003,Vu Giang,giang.vu48@example.com,Other,Ho Chi Minh City,Bronze,2022-12-16
+CUST004,Dang Trang,trang.dang54@example.com,Other,Ho Chi Minh City,Silver,2022-01-28
+CUST005,Hoang Nam,nam.hoang68@example.com,Other,Ho Chi Minh City,Bronze,2022-04-22
+CUST006,Phan Giang,giang.phan45@example.com,Female,Ha Noi,Bronze,2022-03-20
+CUST007,Dang Giang,giang.dang63@example.com,Female,Hai Phong,Gold,2022-10-09
+CUST008,Le Binh,binh.le23@example.com,Other,Da Nang,Gold,2022-08-22
+CUST009,Le Dung,dung.le36@example.com,Female,Can Tho,Silver,2022-01-17
+CUST010,Huynh Giang,giang.huynh61@example.com,Male,Ha Noi,Platinum,2022-04-02
+CUST011,Dang Trang,trang.dang72@example.com,Other,Hai Phong,Gold,2022-09-12
+CUST012,Nguyen Chi,chi.nguyen56@example.com,Female,Can Tho,Silver,2022-04-27
+CUST013,Tran Quang,quang.tran87@example.com,Other,Can Tho,Gold,2022-02-10
+CUST014,Hoang Binh,binh.hoang47@example.com,Other,Can Tho,Silver,2022-05-21
+CUST015,Huynh Phuong,phuong.huynh53@example.com,Other,Ha Noi,Bronze,2022-07-12
+CUST016,Le Quang,quang.le32@example.com,Male,Ha Noi,Bronze,2022-01-09
+CUST017,Vo Oanh,oanh.vo65@example.com,Other,Ho Chi Minh City,Silver,2022-03-21
+CUST018,Nguyen Anh,anh.nguyen67@example.com,Female,Hai Phong,Silver,2022-10-24
+CUST019,Hoang Chi,chi.hoang49@example.com,Male,Hai Phong,Gold,2022-06-05
+CUST020,Le Nam,nam.le71@example.com,Male,Hai Phong,Gold,2022-10-10
+CUST021,Hoang Hanh,hanh.hoang23@example.com,Other,Ha Noi,Bronze,2022-09-21
+CUST022,Le Binh,binh.le74@example.com,Other,Ha Noi,Gold,2022-09-09
+CUST023,Huynh Giang,giang.huynh60@example.com,Female,Ho Chi Minh City,Silver,2022-08-26
+CUST024,Le Anh,anh.le27@example.com,Other,Hai Phong,Gold,2022-01-27
+CUST025,Vu Giang,giang.vu70@example.com,Female,Hai Phong,Bronze,2022-06-24
+CUST026,Nguyen Minh,minh.nguyen74@example.com,Other,Ha Noi,Bronze,2022-09-14
+CUST027,Phan Quang,quang.phan85@example.com,Male,Hai Phong,Bronze,2022-10-01
+CUST028,Tran Quang,quang.tran31@example.com,Other,Ha Noi,Silver,2022-01-20
+CUST029,Pham Minh,minh.pham72@example.com,Other,Da Nang,Bronze,2022-05-28
+CUST030,Hoang Binh,binh.hoang73@example.com,Other,Ho Chi Minh City,Silver,2022-10-27
+CUST031,Tran Chi,chi.tran89@example.com,Female,Ho Chi Minh City,Gold,2022-09-02
+CUST032,Phan Oanh,oanh.phan20@example.com,Male,Ho Chi Minh City,Bronze,2022-08-20
+CUST033,Dang Khoa,khoa.dang90@example.com,Male,Ho Chi Minh City,Silver,2022-05-21
+CUST034,Phan Trang,trang.phan22@example.com,Female,Da Nang,Silver,2022-09-05
+CUST035,Pham Dung,dung.pham23@example.com,Other,Da Nang,Bronze,2022-05-14
+CUST036,Pham Binh,binh.pham81@example.com,Male,Can Tho,Silver,2022-06-02
+CUST037,Huynh Nam,nam.huynh31@example.com,Female,Ho Chi Minh City,Silver,2022-02-09
+CUST038,Pham Son,son.pham99@example.com,Male,Ha Noi,Bronze,2022-05-15
+CUST039,Tran Hanh,hanh.tran71@example.com,Other,Da Nang,Bronze,2022-12-05
+CUST040,Huynh Son,son.huynh31@example.com,Other,Ha Noi,Bronze,2022-03-14
+CUST041,Le Lan,lan.le47@example.com,Female,Can Tho,Gold,2022-01-10
+CUST042,Tran Dung,dung.tran47@example.com,Other,Ho Chi Minh City,Gold,2022-10-15
+CUST043,Vo Giang,giang.vo92@example.com,Female,Hai Phong,Silver,2022-12-01
+CUST044,Phan Quang,quang.phan17@example.com,Female,Da Nang,Bronze,2022-12-17
+CUST045,Phan Chi,chi.phan40@example.com,Male,Ha Noi,Gold,2022-11-01
+CUST046,Vo Khoa,khoa.vo98@example.com,Male,Da Nang,Bronze,2022-04-03
+CUST047,Le Phuong,phuong.le41@example.com,Male,Da Nang,Bronze,2022-05-27
+CUST048,Huynh Hanh,hanh.huynh47@example.com,Female,Hai Phong,Bronze,2022-04-18
+CUST049,Le Dung,dung.le35@example.com,Other,Can Tho,Silver,2022-10-23
+CUST050,Pham Oanh,oanh.pham81@example.com,Female,Ho Chi Minh City,Bronze,2022-09-07
+CUST051,Pham Son,son.pham37@example.com,Other,Da Nang,Bronze,2022-01-21
+CUST052,Pham Giang,giang.pham38@example.com,Other,Ho Chi Minh City,Bronze,2022-12-27
+CUST053,Phan Binh,binh.phan37@example.com,Female,Da Nang,Bronze,2022-02-04
+CUST054,Dang Phuong,phuong.dang27@example.com,Other,Hai Phong,Gold,2022-08-17
+CUST055,Tran Binh,binh.tran84@example.com,Male,Da Nang,Bronze,2022-02-18
+CUST056,Nguyen Hanh,hanh.nguyen62@example.com,Other,Ha Noi,Silver,2022-09-27
+CUST057,Vo Binh,binh.vo43@example.com,Other,Da Nang,Gold,2022-02-01
+CUST058,Le Giang,giang.le17@example.com,Other,Can Tho,Platinum,2022-06-06
+CUST059,Phan Khoa,khoa.phan76@example.com,Other,Ho Chi Minh City,Gold,2022-12-11
+CUST060,Hoang Dung,dung.hoang25@example.com,Other,Can Tho,Platinum,2022-09-17
+CUST061,Hoang Minh,minh.hoang76@example.com,Male,Ho Chi Minh City,Gold,2022-11-12
+CUST062,Le Lan,lan.le65@example.com,Other,Da Nang,Bronze,2022-08-14
+CUST063,Vo Khoa,khoa.vo19@example.com,Female,Da Nang,Gold,2022-11-25
+CUST064,Dang Binh,binh.dang29@example.com,Female,Can Tho,Silver,2022-12-18
+CUST065,Le Dung,dung.le72@example.com,Male,Can Tho,Bronze,2022-08-06
+CUST066,Vu Dung,dung.vu70@example.com,Other,Ho Chi Minh City,Platinum,2022-02-08
+CUST067,Nguyen Oanh,oanh.nguyen58@example.com,Male,Hai Phong,Bronze,2022-04-09
+CUST068,Pham Trang,trang.pham52@example.com,Male,Ho Chi Minh City,Platinum,2022-03-02
+CUST069,Pham Khoa,khoa.pham52@example.com,Other,Can Tho,Gold,2022-08-07
+CUST070,Huynh Lan,lan.huynh24@example.com,Other,Can Tho,Platinum,2022-08-23
+CUST071,Le Lan,lan.le39@example.com,Male,Can Tho,Platinum,2022-05-06
+CUST072,Le Quang,quang.le91@example.com,Other,Hai Phong,Platinum,2022-02-16
+CUST073,Phan Dung,dung.phan64@example.com,Other,Hai Phong,Silver,2022-10-28
+CUST074,Tran Minh,minh.tran14@example.com,Male,Hai Phong,Silver,2022-07-22
+CUST075,Phan Trang,trang.phan54@example.com,Female,Can Tho,Bronze,2022-05-03
+CUST076,Phan Dung,dung.phan73@example.com,Other,Can Tho,Silver,2022-07-14
+CUST077,Hoang Lan,lan.hoang76@example.com,Female,Ho Chi Minh City,Bronze,2022-10-22
+CUST078,Tran Quang,quang.tran59@example.com,Male,Can Tho,Platinum,2022-12-03
+CUST079,Tran Hanh,hanh.tran52@example.com,Female,Da Nang,Platinum,2022-03-21
+CUST080,Tran Nam,nam.tran24@example.com,Other,Ho Chi Minh City,Bronze,2022-03-19
+CUST081,Phan Trang,trang.phan43@example.com,Male,Da Nang,Bronze,2022-09-23
+CUST082,Pham Quang,quang.pham61@example.com,Male,Hai Phong,Silver,2022-01-14
+CUST083,Hoang Dung,dung.hoang96@example.com,Female,Can Tho,Gold,2022-09-19
+CUST084,Phan Trang,trang.phan87@example.com,Male,Can Tho,Bronze,2022-01-17
+CUST085,Pham Lan,lan.pham97@example.com,Female,Can Tho,Gold,2022-02-25
+CUST086,Tran Lan,lan.tran39@example.com,Other,Ha Noi,Silver,2022-02-15
+CUST087,Tran Trang,trang.tran53@example.com,Female,Can Tho,Platinum,2022-04-21
+CUST088,Pham Hanh,hanh.pham76@example.com,Other,Ho Chi Minh City,Bronze,2022-01-14
+CUST089,Nguyen Nam,nam.nguyen19@example.com,Male,Da Nang,Gold,2022-08-04
+CUST090,Tran Minh,minh.tran38@example.com,Other,Ha Noi,Silver,2022-04-24
+CUST091,Vo Anh,anh.vo97@example.com,Other,Da Nang,Bronze,2022-12-17
+CUST092,Tran Son,son.tran43@example.com,Male,Ha Noi,Gold,2022-02-28
+CUST093,Huynh Khoa,khoa.huynh61@example.com,Other,Ho Chi Minh City,Platinum,2022-02-13
+CUST094,Le Dung,dung.le15@example.com,Other,Da Nang,Silver,2022-01-08
+CUST095,Hoang Binh,binh.hoang15@example.com,Other,Da Nang,Bronze,2022-05-13
+CUST096,Dang Dung,dung.dang63@example.com,Female,Hai Phong,Silver,2022-03-13
+CUST097,Le Giang,giang.le72@example.com,Female,Da Nang,Platinum,2022-03-01
+CUST098,Le Binh,binh.le24@example.com,Other,Ho Chi Minh City,Platinum,2022-07-15
+CUST099,Tran Giang,giang.tran23@example.com,Male,Ho Chi Minh City,Silver,2022-04-18
+CUST100,Huynh Nam,nam.huynh97@example.com,Male,Hai Phong,Silver,2022-03-21

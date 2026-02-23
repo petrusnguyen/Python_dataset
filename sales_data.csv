@@ -1,0 +1,101 @@
+Date,Product,Category,Units Sold,Unit Price,Total Revenue,Region
+2023-01-03,Headphones,Electronics,7,456.09,3192.63,West
+2023-01-06,Mirror,Home Decor,9,459.03,4131.27,West
+2023-01-10,Jacket,Apparel,9,425.92,3833.28,South
+2023-01-12,Laptop,Electronics,2,390.45,780.9,South
+2023-01-21,Wall Art,Home Decor,2,35.8,71.6,North
+2023-01-29,Rug,Home Decor,7,491.4,3439.8,East
+2023-01-30,Smartwatch,Electronics,3,487.13,1461.39,South
+2023-01-30,Smartwatch,Electronics,10,160.44,1604.4,West
+2023-02-07,Wall Art,Home Decor,4,110.57,442.28,East
+2023-02-09,Tablet,Electronics,1,110.74,110.74,South
+2023-02-10,T-Shirt,Apparel,5,361.49,1807.45,East
+2023-02-12,T-Shirt,Apparel,9,493.54,4441.86,East
+2023-02-15,Tablet,Electronics,8,307.96,2463.68,West
+2023-02-19,Vase,Home Decor,9,489.0,4401.0,South
+2023-02-22,Mirror,Home Decor,1,253.76,253.76,East
+2023-02-27,Laptop,Electronics,5,372.33,1861.65,West
+2023-03-04,Smartphone,Electronics,3,135.36,406.08,East
+2023-03-06,Jacket,Apparel,4,433.58,1734.32,West
+2023-03-08,T-Shirt,Apparel,7,272.32,1906.24,East
+2023-03-08,Rug,Home Decor,9,448.03,4032.27,North
+2023-03-15,Smartwatch,Electronics,7,140.71,984.97,East
+2023-03-16,Lamp,Home Decor,1,448.55,448.55,West
+2023-03-17,T-Shirt,Apparel,10,64.67,646.7,West
+2023-03-21,Lamp,Home Decor,5,432.68,2163.4,South
+2023-03-27,Lamp,Home Decor,9,72.53,652.77,South
+2023-03-29,Smartphone,Electronics,7,25.89,181.23,East
+2023-04-12,Laptop,Electronics,7,74.78,523.46,South
+2023-04-15,Rug,Home Decor,8,245.77,1966.16,South
+2023-04-16,Smartphone,Electronics,9,323.34,2910.06,South
+2023-04-19,Rug,Home Decor,8,478.36,3826.88,South
+2023-04-24,Smartwatch,Electronics,10,260.82,2608.2,East
+2023-04-26,Headphones,Electronics,8,117.56,940.48,West
+2023-04-27,Tablet,Electronics,9,133.1,1197.9,South
+2023-05-01,Sneakers,Apparel,1,458.38,458.38,East
+2023-05-03,Lamp,Home Decor,10,49.42,494.2,South
+2023-05-05,T-Shirt,Apparel,9,192.87,1735.83,East
+2023-05-06,Mirror,Home Decor,2,345.2,690.4,South
+2023-05-08,Jacket,Apparel,9,358.53,3226.77,East
+2023-05-15,Sneakers,Apparel,10,340.62,3406.2,East
+2023-05-15,Lamp,Home Decor,9,123.64,1112.76,East
+2023-05-23,Smartphone,Electronics,8,370.01,2960.08,South
+2023-06-01,Tablet,Electronics,3,201.86,605.58,North
+2023-06-03,Rug,Home Decor,3,79.46,238.38,West
+2023-06-08,Sneakers,Apparel,8,119.81,958.48,West
+2023-06-10,Smartwatch,Electronics,7,78.09,546.63,South
+2023-06-17,Wall Art,Home Decor,2,492.81,985.62,North
+2023-06-21,Tablet,Electronics,3,213.13,639.39,East
+2023-06-21,Jacket,Apparel,6,402.03,2412.18,South
+2023-06-25,Lamp,Home Decor,10,42.55,425.5,West
+2023-06-26,Rug,Home Decor,3,452.24,1356.72,West
+2023-07-02,Smartphone,Electronics,3,344.39,1033.17,East
+2023-07-13,Cap,Apparel,9,329.26,2963.34,East
+2023-07-15,Tablet,Electronics,6,382.51,2295.06,East
+2023-07-16,Lamp,Home Decor,2,372.35,744.7,East
+2023-07-26,Rug,Home Decor,6,461.38,2768.28,South
+2023-07-29,T-Shirt,Apparel,5,432.51,2162.55,South
+2023-08-04,Rug,Home Decor,3,343.46,1030.38,West
+2023-08-09,Headphones,Electronics,8,371.09,2968.72,West
+2023-08-11,Cap,Apparel,9,468.68,4218.12,North
+2023-08-16,Smartwatch,Electronics,7,178.82,1251.74,South
+2023-08-18,Jacket,Apparel,7,133.04,931.28,East
+2023-08-18,Smartphone,Electronics,2,263.74,527.48,South
+2023-08-25,Jacket,Apparel,8,46.93,375.44,North
+2023-09-06,Wall Art,Home Decor,2,439.8,879.6,South
+2023-09-07,Tablet,Electronics,3,429.82,1289.46,West
+2023-09-10,Wall Art,Home Decor,2,192.27,384.54,East
+2023-10-12,Cap,Apparel,10,267.83,2678.3,West
+2023-10-13,Vase,Home Decor,10,450.06,4500.6,North
+2023-10-13,Wall Art,Home Decor,7,134.41,940.87,East
+2023-10-14,Lamp,Home Decor,9,168.32,1514.88,North
+2023-10-15,Mirror,Home Decor,10,308.69,3086.9,North
+2023-10-27,Mirror,Home Decor,2,381.95,763.9,East
+2023-10-27,Smartwatch,Electronics,9,50.07,450.63,North
+2023-10-27,Lamp,Home Decor,9,68.33,614.97,North
+2023-10-28,Tablet,Electronics,9,86.81,781.29,East
+2023-10-28,Smartphone,Electronics,5,353.7,1768.5,North
+2023-10-30,Vase,Home Decor,7,354.3,2480.1,South
+2023-11-04,Headphones,Electronics,9,11.99,107.91,West
+2023-11-06,Tablet,Electronics,5,195.76,978.8,East
+2023-11-08,Wall Art,Home Decor,5,271.5,1357.5,North
+2023-11-09,T-Shirt,Apparel,3,19.22,57.66,East
+2023-11-11,Smartwatch,Electronics,3,193.71,581.13,West
+2023-11-12,Lamp,Home Decor,10,269.97,2699.7,North
+2023-11-12,Sneakers,Apparel,6,277.59,1665.54,South
+2023-11-17,Smartwatch,Electronics,3,231.02,693.06,West
+2023-11-18,Lamp,Home Decor,8,115.87,926.96,West
+2023-11-22,Mirror,Home Decor,8,438.79,3510.32,West
+2023-11-29,Smartwatch,Electronics,1,487.87,487.87,North
+2023-11-30,Rug,Home Decor,5,22.83,114.15,South
+2023-11-30,Laptop,Electronics,2,160.71,321.42,South
+2023-12-01,Smartwatch,Electronics,7,379.37,2655.59,North
+2023-12-02,Tablet,Electronics,2,306.81,613.62,North
+2023-12-06,Tablet,Electronics,3,415.84,1247.52,South
+2023-12-08,Tablet,Electronics,10,360.13,3601.3,South
+2023-12-15,Jacket,Apparel,7,368.6,2580.2,East
+2023-12-20,Tablet,Electronics,8,426.41,3411.28,North
+2023-12-21,Headphones,Electronics,6,269.78,1618.68,East
+2023-12-24,Cap,Apparel,4,214.03,856.12,North
+2023-12-24,Jeans,Apparel,8,433.79,3470.32,East
+2023-12-27,Headphones,Electronics,1,400.32,400.32,West
